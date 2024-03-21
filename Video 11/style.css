@@ -1,0 +1,20 @@
+h1 {
+    background-color: green;   
+    font-size: 60px;
+    text-align: center;
+    color: white; 
+    font-family: arial;
+
+    
+
+}
+.index-h2 {
+    color: red;
+}
+
+p {
+    color: rgb(238, 174, 12);
+}
+h5 {
+    font-style: italic;
+}
